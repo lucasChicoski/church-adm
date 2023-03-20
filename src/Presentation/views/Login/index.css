@@ -1,0 +1,27 @@
+
+
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card{
+    background-color: aliceblue;
+    padding: 2%;
+    border-radius: 10px;
+}
+.btn-login{
+    margin-top: 5%;
+    width: 100%;
+    
+}
+
+.loginIn{
+    margin-right: 5px;
+}
+.passwordIn{
+    margin-left: 5px;
+}
